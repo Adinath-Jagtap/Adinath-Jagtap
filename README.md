@@ -235,7 +235,6 @@ Real-time Boston housing price predictions through an elegant Flask web interfac
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-Jagtap&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adinath-Jagtap&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 <div align="center">
