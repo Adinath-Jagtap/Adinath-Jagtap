@@ -248,39 +248,7 @@ Real-time Boston housing price predictions through an elegant Flask web interfac
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"> Beyond the Terminal
-
-Technology is one dimension of how I think. The others shape everything I build.
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100"/>
-<br><b>🎨 Visual Art</b>
-<br>Drawing and design thinking that influences my UI/UX approach
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" height="100"/>
-<br><b>🗺️ Travel</b>
-<br>Exploring cultures, perspectives, and problem-solving approaches worldwide
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" height="100"/>
-<br><b>📜 History & Mythology</b>
-<br>Pattern recognition across civilizations and legendary narratives
-</td>
-</tr>
-</table>
-
-These aren't hobbies—they're integral to how I design systems, solve problems, and innovate.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/handshake.gif?raw=true" width="80px" height="80px"> Let's Build Together
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px" height="20px"> Let's Build Together
 
 I'm actively seeking **startup opportunities**, **technical collaborations**, and **open-source contributions**. If you're building something that pushes boundaries—in AI, automation, or full-stack—let's connect.
 
@@ -305,10 +273,7 @@ Not interested in small talk. Interested in building things that matter.
 <div align="center">
 
 ### 💭 Philosophy
-
-```
 "The best way to predict the future is to build it."
-```
 
 **One project at a time. Always learning. Always shipping. 🚀**
 
