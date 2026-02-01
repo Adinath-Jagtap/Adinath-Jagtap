@@ -32,7 +32,8 @@
 1️⃣ **BE in AI & Data Science** @ Terna Engineering College<br>
 2️⃣ **BS in Data Science** @ IIT Madras<br>
 📍 **Navi Mumbai**<br>
-🚀 Building **production-ready AI systems**, **automation workflows**, and **intelligent applications**
+🚀 **Community Operations & Development (COO )** @ [Syntax Syndicate](https://syntaxsyndicate.co.in/) <br>
+🎯 Building **production-ready AI systems**, **automation workflows**, and **intelligent applications**
 
 <br clear="right"/>
 
