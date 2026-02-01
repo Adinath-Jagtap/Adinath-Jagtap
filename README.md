@@ -139,75 +139,83 @@ Beyond coding, I'm an artist, traveler, and history enthusiast. These perspectiv
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35px" height="35px"> Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 Blog Automation & Website</h3>
+
 <div align="center">
+  
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Gemini%202.5-blue?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-GitHub%20Actions-orange?style=flat-square)
 
-### 🤖 Blog Automation & Website
-**Production-grade AI news platform running on autopilot**
+**Production AI news platform on autopilot**
 
-<img src="https://img.shields.io/badge/Status-Live%20%26%20Automated-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Gemini%202.5-blue?style=for-the-badge&logo=google&logoColor=white" />
+Aggregates from **15+ premium sources** (BBC, NYT, TechCrunch), intelligently rewrites with **Gemini AI**, auto-publishes every 2 hours. Zero manual intervention—scraping to publishing runs autonomously.
+
+**Stack:** Python • MongoDB • Gemini AI • GitHub Actions • Netlify
+
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/blog-automation-and-website)
 
 </div>
 
-Fully automated news aggregation system that pulls content from **15+ premium sources** (BBC, NYT, TechCrunch), intelligently rewrites articles using **Gemini 2.5 AI**, and auto-publishes every 2 hours via **GitHub Actions**. This isn't a toy project—it's production-ready, handling real traffic on Netlify with MongoDB as the backbone.
+</td>
+<td width="50%">
 
-**What makes it special:** Zero manual intervention. The entire pipeline—from scraping to publishing—runs autonomously. Smart content rewriting ensures originality while maintaining journalistic integrity.
-
-<div align="center">
-
-**Tech Stack:** `Python` `MongoDB` `Gemini AI` `GitHub Actions` `Netlify`
-
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/blog-automation-and-website)
-
-</div>
-
----
+<h3 align="center">📊 DataLens AI</h3>
 
 <div align="center">
 
-### 📊 DataLens AI
-**Intelligent data analytics agent that thinks for itself**
+![AI](https://img.shields.io/badge/AI-Agentic%20System-purple?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Collaborative-orange?style=flat-square)
 
-<img src="https://img.shields.io/badge/AI-Agentic%20System-purple?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Collaborative%20Project-orange?style=for-the-badge" />
+**Intelligent analytics agent that thinks**
+
+Transform messy datasets into stunning insights. Powered by **Gemini AI** for autonomous data cleaning, analysis, and professional visualizations. Agentic system making smart decisions about chart types and patterns.
+
+**Stack:** Python • Gemini AI • Jupyter • Visualization Libraries
+
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/DataLens-AI-Intelligent-Data-Analytics-Agent)
 
 </div>
 
-Transform raw, messy datasets into stunning visual insights with zero manual effort. Drop your data, and watch **DataLens AI** automatically clean, analyze, and create professional-grade visualizations. Powered by **Gemini AI** for smart pattern recognition and automated insights generation.
+</td>
+</tr>
 
-**What makes it special:** It's an agentic system—it makes decisions about data cleaning, chart types, and analysis strategies autonomously. Interactive dashboards that adapt to your data's story.
+<tr>
+<td width="50%">
+
+<h3 align="center">🏡 House Price Prediction</h3>
 
 <div align="center">
 
-**Tech Stack:** `Python` `Gemini AI` `Jupyter` `Data Visualization Libraries`
+![ML](https://img.shields.io/badge/ML-Production%20Ready-green?style=flat-square)
+![Web](https://img.shields.io/badge/Web-Flask-black?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/DataLens-AI-Intelligent-Data-Analytics-Agent)
+**End-to-end ML pipeline deployed**
 
-</div>
+Real-time Boston housing predictions via Flask web interface. Complete workflow: preprocessing, **Linear Regression** training, REST API, production deployment with elegant UI.
 
----
+**Stack:** Python • Flask • Scikit-learn • Linear Regression
 
-<div align="center">
-
-### 🏡 House Price Prediction
-**End-to-end ML pipeline from training to deployment**
-
-<img src="https://img.shields.io/badge/ML-Production%20Ready-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-Flask%20App-black?style=for-the-badge&logo=flask&logoColor=white" />
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/HOUSE-PRICE-PREDICTION)
 
 </div>
 
-Real-time Boston housing price predictions through an elegant Flask web interface. Complete ML workflow: data preprocessing, model training with **Linear Regression**, REST API development, and production deployment. Features comprehensive documentation and a clean, responsive UI.
+</td>
+<td width="50%" align="center">
 
-**What makes it special:** Demonstrates the entire ML lifecycle—not just model training, but actual deployment with a user-facing interface. Production-ready code with proper error handling and validation.
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-<div align="center">
+**More Projects Coming Soon...**
 
-**Tech Stack:** `Python` `Flask` `Scikit-learn` `Linear Regression`
+Currently building intelligent systems that push boundaries. Follow along for updates on automation, AI, and full-stack innovations.
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/HOUSE-PRICE-PREDICTION)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
