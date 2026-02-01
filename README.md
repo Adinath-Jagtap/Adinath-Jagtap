@@ -1,173 +1,321 @@
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║    ▄▀█ █▀▄ █ █▄ █ ▄▀█ ▀█▀ █ █        █ ▄▀█ █▀▀ ▀█▀ ▄▀█ █▀█                ║
-║    █▀█ █▄▀ █ █ ▀█ █▀█  █  █▀█      █▄█ █▀█ █▄█  █  █▀█ █▀▀                ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Building+at+the+Intersection+of+Code+%26+Intelligence;BE+AI+%26+Data+Science+%7C+IIT+Madras+BS+Data+Science" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Adinath%20Jagtap&fontSize=80&fontAlignY=25&desc=Aspiring%20AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descSize=20&animation=twinkling"/>
 
 </div>
 
-## 🎯 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+Full+Stack+Systems;Exploring+Automations;Turning+Ideas+Into+Intelligent+Solutions;Open+to+Collaborations+%26+Join+Startups" alt="Typing SVG" />
+</p>
 
-I'm a second-year engineering student pursuing dual degrees—**BE in Artificial Intelligence & Data Science** at Terna Engineering College (University of Mumbai) and **BS in Data Science** at IIT Madras. I build things that solve problems, automate workflows, and make sense of data.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Terna%20Engineering-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-FF6B35?style=for-the-badge&logo=indian-institute-of-technology&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
-From Satara to Navi Mumbai, my journey has been about exploring the intersection of technology, creativity, and real-world impact. Whether it's crafting full-stack web applications, training machine learning models, or building intelligent automations, I'm driven by curiosity and a desire to create meaningful solutions.
+<br>
 
-Beyond code, I'm an artist at heart—I draw, travel, and dive deep into history and mythology. These interests shape how I think, design, and solve problems.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 🚀 What I'm Up To
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
-```python
-current_focus = {
-    "exploring": ["AI/ML", "Full Stack Development", "Automation Engineering"],
-    "building": "Projects that interest me in the moment",
-    "seeking": ["Collaborations", "Startup Opportunities", "Open Source Contributions"],
-    "learning": "Everything that catches my curiosity"
+```typescript
+class AdinathJagtap {
+  constructor() {
+    this.name = "Adinath Jagtap";
+    this.role = "AI Engineer & Full Stack Developer";
+    this.location = "Navi Mumbai, India";
+    this.education = [
+      "BE in AI & Data Science @ Terna Engineering College",
+      "BS in Data Science @ IIT Madras"
+    ];
+  }
+
+  getCurrentFocus(): string[] {
+    return [
+      "Building production-ready AI systems",
+      "Creating scalable automation workflows",
+      "Exploring cutting-edge ML architectures",
+      "Contributing to open-source projects"
+    ];
+  }
+
+  getPassions(): string[] {
+    return ["Code", "Art", "Travel", "History & Mythology"];
+  }
+
+  getPhilosophy(): string {
+    return "Build it if it doesn't exist. Improve it if it does. 🚀";
+  }
 }
 ```
 
-I don't confine myself to a single domain—I follow my interests wherever they lead. Right now, that means building intelligent systems, automating repetitive tasks, and creating full-stack applications that solve real problems.
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Second-year engineering student** building at the intersection of **AI, automation, and full-stack development**. I don't just write code—I architect intelligent systems that solve real-world problems. From automated news platforms powered by LLMs to data analytics agents that think for themselves, my projects combine technical depth with tangible impact.
 
-## 🛠️ Tech Arsenal
+Originally from Satara, now hustling in Navi Mumbai. My journey isn't confined to lecture halls—it's shaped by building, breaking, and rebuilding until it works. Beyond the screen, I'm an artist who draws, a traveler who explores, and a history buff who finds patterns in ancient civilizations.
 
-<div align="center">
+**Why two degrees?** Because one wasn't enough to satisfy my curiosity about how machines can truly learn and think.
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<br>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Featured Projects
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ2OGFhM2VkZThhYTJiNGZhMDljY2QxYWMxMzY5NGI2YzI4YTMxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Arsenal
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 [Blog Automation & Website](https://github.com/Adinath-Jagtap/blog-automation-and-website)
-Fully automated AI-powered news platform powered by Gemini 2.5 AI. Aggregates content from 15+ premium sources including BBC, NYT, and TechCrunch. Intelligent content rewriting ensures original, engaging articles. Auto-publishes every 2 hours via GitHub Actions. Built with MongoDB, Python automation, and hosted on Netlify—production-ready and scalable.
-
-**Tech:** Python, MongoDB, Netlify, Gemini AI, GitHub Actions
-
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
 </td>
-<td width="50%">
-
-### 📊 [DataLens AI](https://github.com/Adinath-Jagtap/DataLens-AI-Intelligent-Data-Analytics-Agent)
-Intelligent data analytics agent that transforms raw datasets into stunning visual insights. Powered by Gemini AI for automated data cleaning, interactive dashboards, and professional visualizations with smart analysis. An agentic AI project built with collaboration.
-
-**Tech:** Python, Gemini AI, Jupyter, Data Visualization
-
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br>MySQL
 </td>
 </tr>
-
 <tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+<br>Flask
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+<br>Linux
+</td>
 </tr>
 </table>
+
 </div>
+
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35px" height="35px"> Featured Projects
+
+<div align="center">
+
+### 🤖 Blog Automation & Website
+**Production-grade AI news platform running on autopilot**
+
+<img src="https://img.shields.io/badge/Status-Live%20%26%20Automated-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Gemini%202.5-blue?style=for-the-badge&logo=google&logoColor=white" />
+
+</div>
+
+Fully automated news aggregation system that pulls content from **15+ premium sources** (BBC, NYT, TechCrunch), intelligently rewrites articles using **Gemini 2.5 AI**, and auto-publishes every 2 hours via **GitHub Actions**. This isn't a toy project—it's production-ready, handling real traffic on Netlify with MongoDB as the backbone.
+
+**What makes it special:** Zero manual intervention. The entire pipeline—from scraping to publishing—runs autonomously. Smart content rewriting ensures originality while maintaining journalistic integrity.
+
+<div align="center">
+
+**Tech Stack:** `Python` `MongoDB` `Gemini AI` `GitHub Actions` `Netlify`
+
+[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/blog-automation-and-website)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 DataLens AI
+**Intelligent data analytics agent that thinks for itself**
+
+<img src="https://img.shields.io/badge/AI-Agentic%20System-purple?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Type-Collaborative%20Project-orange?style=for-the-badge" />
+
+</div>
+
+Transform raw, messy datasets into stunning visual insights with zero manual effort. Drop your data, and watch **DataLens AI** automatically clean, analyze, and create professional-grade visualizations. Powered by **Gemini AI** for smart pattern recognition and automated insights generation.
+
+**What makes it special:** It's an agentic system—it makes decisions about data cleaning, chart types, and analysis strategies autonomously. Interactive dashboards that adapt to your data's story.
+
+<div align="center">
+
+**Tech Stack:** `Python` `Gemini AI` `Jupyter` `Data Visualization Libraries`
+
+[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/DataLens-AI-Intelligent-Data-Analytics-Agent)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏡 House Price Prediction
+**End-to-end ML pipeline from training to deployment**
+
+<img src="https://img.shields.io/badge/ML-Production%20Ready-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-Flask%20App-black?style=for-the-badge&logo=flask&logoColor=white" />
+
+</div>
+
+Real-time Boston housing price predictions through an elegant Flask web interface. Complete ML workflow: data preprocessing, model training with **Linear Regression**, REST API development, and production deployment. Features comprehensive documentation and a clean, responsive UI.
+
+**What makes it special:** Demonstrates the entire ML lifecycle—not just model training, but actual deployment with a user-facing interface. Production-ready code with proper error handling and validation.
+
+<div align="center">
+
+**Tech Stack:** `Python` `Flask` `Scikit-learn` `Linear Regression`
+
+[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/HOUSE-PRICE-PREDICTION)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-Jagtap&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adinath-Jagtap&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-Jagtap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35" />
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"> Beyond the Terminal
+
+Technology is one dimension of how I think. The others shape everything I build.
+
 <table>
-<td width="100%">
-
-### 🏡 [House Price Prediction](https://github.com/Adinath-Jagtap/HOUSE-PRICE-PREDICTION)
-Flask-based ML application for Boston housing price prediction. Features real-time predictions with an elegant interface, comprehensive documentation, and production-ready deployment. Demonstrates end-to-end ML pipeline from model training to web deployment.
-
-**Tech:** Python, Flask, Scikit-learn, Linear Regression
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100"/>
+<br><b>🎨 Visual Art</b>
+<br>Drawing and design thinking that influences my UI/UX approach
 </td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" height="100"/>
+<br><b>🗺️ Travel</b>
+<br>Exploring cultures, perspectives, and problem-solving approaches worldwide
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" height="100"/>
+<br><b>📜 History & Mythology</b>
+<br>Pattern recognition across civilizations and legendary narratives
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+These aren't hobbies—they're integral to how I design systems, solve problems, and innovate.
 
-## 📈 GitHub Analytics
+<br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-Jagtap&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
+<br>
 
-<div align="center">
-</div>
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/handshake.gif?raw=true" width="80px" height="80px"> Let's Build Together
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+I'm actively seeking **startup opportunities**, **technical collaborations**, and **open-source contributions**. If you're building something that pushes boundaries—in AI, automation, or full-stack—let's connect.
 
-## 🎨 Beyond Code
-
-When I'm not debugging or training models, you'll find me:
-
-- 🎨 **Drawing** – Creating visual art and exploring design
-- 🗺️ **Traveling** – Discovering new places and cultures
-- 📚 **Exploring History & Mythology** – Diving deep into ancient civilizations and legendary tales
-
-These interests aren't separate from my technical work—they inform how I approach problems, design solutions, and think creatively about technology.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on interesting projects, discussing startup ideas, or just having a conversation about technology, art, or history. If you're building something cool or need a collaborator, let's talk.
+Not interested in small talk. Interested in building things that matter.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adinath-jagtap)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adinathjagtap9702@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adinathjagtap777)
 [![IIT Madras](https://img.shields.io/badge/IIT_Madras-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ds.study.iitm.ac.in/student/24F2004698)
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Adinath-Jagtap&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adinath-Jagtap&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
 ### 💭 Philosophy
 
-*"The best way to predict the future is to build it."*
+```
+"The best way to predict the future is to build it."
+```
 
-Building one project at a time, learning continuously, and staying curious about what's next.
+**One project at a time. Always learning. Always shipping. 🚀**
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=120&section=footer"/>
+
 </div>
