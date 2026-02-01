@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Adinath%20Jagtap&fontSize=80&fontAlignY=25&desc=Aspiring%20AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descSize=20&animation=twinkling"/>
 
 </div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+Full+Stack+Systems;Exploring+Automations;Turning+Ideas+Into+Intelligent+Solutions;Open+to+Collaborations+%26+Join+Startups" alt="Typing SVG" />
 </p>
@@ -12,8 +11,7 @@
   <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Terna%20Engineering-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-FF6B35?style=for-the-badge&logo=indian-institute-of-technology&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" />
-</p>
-<br>
+</p> <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
@@ -39,13 +37,9 @@ philosophy = "Build it if it doesn't exist. Improve it if it does."
 ```
 Why two degrees? Just wanted to explore data science more deeply and learn from different perspectives. I don't just write code—I architect solutions that think, learn, and scale. From automated news platforms to agentic AI systems, my work combines deep technical knowledge with real-world impact.
 
-Beyond coding, I'm an artist, traveler, and history enthusiast. These perspectives shape how I solve problems and design systems.
-<br>
+Beyond coding, I'm an artist, traveler, and history enthusiast. These perspectives shape how I solve problems and design systems. <br>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> <br>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ2OGFhM2VkZThhYTJiNGZhMDljY2QxYWMxMzY5NGI2YzI4YTMxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Arsenal
 
@@ -94,8 +88,6 @@ Beyond coding, I'm an artist, traveler, and history enthusiast. These perspectiv
 
 <div align="center">
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -117,99 +109,29 @@ Beyond coding, I'm an artist, traveler, and history enthusiast. These perspectiv
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-</div>
+</div> <br>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35px" height="35px"> Projects
 
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35px" height="35px"> Featured Projects
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-<h3 align="center">🤖 Blog Automation & Website</h3>
-
-<div align="center">
   
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Gemini%202.5-blue?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-GitHub%20Actions-orange?style=flat-square)
-
-**Production AI news platform on autopilot**
-
-Aggregates from **15+ premium sources** (BBC, NYT, TechCrunch), intelligently rewrites with **Gemini AI**, auto-publishes every 2 hours. Zero manual intervention—scraping to publishing runs autonomously.
-
-**Stack:** Python • MongoDB • Gemini AI • GitHub Actions • Netlify
-
-[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/blog-automation-and-website)
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">📊 DataLens AI</h3>
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/AI-Agentic%20System-purple?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Collaborative-orange?style=flat-square)
-
-**Intelligent analytics agent that thinks**
-
-Transform messy datasets into stunning insights. Powered by **Gemini AI** for autonomous data cleaning, analysis, and professional visualizations. Agentic system making smart decisions about chart types and patterns.
-
-**Stack:** Python • Gemini AI • Jupyter • Visualization Libraries
-
-[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/DataLens-AI-Intelligent-Data-Analytics-Agent)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🏡 House Price Prediction</h3>
-
-<div align="center">
-
-![ML](https://img.shields.io/badge/ML-Production%20Ready-green?style=flat-square)
-![Web](https://img.shields.io/badge/Web-Flask-black?style=flat-square)
-
-**End-to-end ML pipeline deployed**
-
-Real-time Boston housing predictions via Flask web interface. Complete workflow: preprocessing, **Linear Regression** training, REST API, production deployment with elegant UI.
-
-**Stack:** Python • Flask • Scikit-learn • Linear Regression
-
-[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adinath-Jagtap/HOUSE-PRICE-PREDICTION)
-
-</div>
-
-</td>
 <td width="50%" align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-**More Projects Coming Soon...**
+**Explore my projects in the Repositories tab**<br>
 
-Currently building intelligent systems that push boundaries. Follow along for updates on automation, AI, and full-stack innovations.
-
+Currently building intelligent systems that push boundaries.<br>
+Follow along for updates on automation, AI, and full-stack innovations.<br>
+**More Projects Coming Soon...**<br>
 </td>
 </tr>
-</table>
+</table> <br>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Analytics
 
