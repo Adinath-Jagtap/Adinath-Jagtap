@@ -22,46 +22,30 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
-```typescript
-class AdinathJagtap {
-  constructor() {
-    this.name = "Adinath Jagtap";
-    this.role = "AI Engineer & Full Stack Developer";
-    this.location = "Navi Mumbai, India";
-    this.education = [
-      "BE in AI & Data Science @ Terna Engineering College",
-      "BS in Data Science @ IIT Madras"
-    ];
-  }
+<img align="right" alt="Coding" width="350" height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-  getCurrentFocus(): string[] {
-    return [
-      "Building production-ready AI systems",
-      "Creating scalable automation workflows",
-      "Exploring cutting-edge ML architectures",
-      "Contributing to open-source projects"
-    ];
-  }
+### Hi there! I'm Adinath 👋
 
-  getPassions(): string[] {
-    return ["Code", "Art", "Travel", "History & Mythology"];
-  }
+**Aspiring AI Engineer • Full Stack Developer • Data Scientist**
 
-  getPhilosophy(): string {
-    return "Build it if it doesn't exist. Improve it if it does. 🚀";
-  }
-}
+🎓 Dual degree student:<br>
+1️⃣ **BE in AI & Data Science** @ Terna Engineering College<br>
+2️⃣ **BS in Data Science** @ IIT Madras<br>
+📍 **Navi Mumbai**<br>
+🚀 Building **production-ready AI systems**, **automation workflows**, and **intelligent applications**
+
+<br clear="right"/>
+
+```python
+passion = ["AI/ML", "Automation", "Full Stack", "Open Source"]
+interests = ["Art 🎨", "Travel ✈️", "History 📜", "Mythology 🏛️"]
+philosophy = "Build it if it doesn't exist. Improve it if it does."
 ```
+Why two degrees? Just wanted to explore data science more deeply and learn from different perspectives. I don't just write code—I architect solutions that think, learn, and scale. From automated news platforms to agentic AI systems, my work combines deep technical knowledge with real-world impact.
 
+Beyond coding, I'm an artist, traveler, and history enthusiast. These perspectives shape how I solve problems and design systems.
 <br>
 
-**Second-year engineering student** building at the intersection of **AI, automation, and full-stack development**. I don't just write code—I architect intelligent systems that solve real-world problems. From automated news platforms powered by LLMs to data analytics agents that think for themselves, my projects combine technical depth with tangible impact.
-
-Originally from Satara, now hustling in Navi Mumbai. My journey isn't confined to lecture halls—it's shaped by building, breaking, and rebuilding until it works. Beyond the screen, I'm an artist who draws, a traveler who explores, and a history buff who finds patterns in ancient civilizations.
-
-**Why two degrees?** Because one wasn't enough to satisfy my curiosity about how machines can truly learn and think.
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
