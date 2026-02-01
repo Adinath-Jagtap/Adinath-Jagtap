@@ -59,7 +59,6 @@ I don't confine myself to a single domain—I follow my interests wherever they 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -100,60 +99,29 @@ Intelligent data analytics agent that transforms raw datasets into stunning visu
 </tr>
 
 <tr>
-<td width="50%">
+</tr>
+</table>
+</div>
+<table>
+<td width="100%">
 
 ### 🏡 [House Price Prediction](https://github.com/Adinath-Jagtap/HOUSE-PRICE-PREDICTION)
 Flask-based ML application for Boston housing price prediction. Features real-time predictions with an elegant interface, comprehensive documentation, and production-ready deployment. Demonstrates end-to-end ML pipeline from model training to web deployment.
 
 **Tech:** Python, Flask, Scikit-learn, Linear Regression
-
 </td>
-<td width="50%">
-
-### 🚢 [Titanic ML Competition](https://github.com/Adinath-Jagtap/Titanic-Machine-Learning-from-Disaster)
-Kaggle Titanic solution achieving **0.80143 score** using ensemble of 100 Gradient Boosted Trees with TensorFlow Decision Forests. Advanced feature engineering and model stacking for superior predictive performance.
-
-**Tech:** Python, TensorFlow, Ensemble Learning, Kaggle
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏠 [House Prices Advanced Regression](https://github.com/Adinath-Jagtap/House-Prices-Advanced-Regression-Techniques)
-Advanced regression techniques for house price prediction using ensemble methods (Ridge, XGBoost, Stacking). Achieved **Public Score: 0.12029** on Kaggle through extensive feature engineering and model optimization.
-
-**Tech:** Python, XGBoost, Ridge Regression, Kaggle
-
-</td>
-<td width="50%">
-
-### 🗄️ [Daily SQL Practice](https://github.com/Adinath-Jagtap/SQL)
-Structured daily SQL practice journey from beginner to advanced. One carefully selected question per day with detailed solutions. Comprehensive coverage of database concepts, queries, and optimization techniques.
-
-**Tech:** SQL, PostgreSQL, Database Design
-
-</td>
-</tr>
 </table>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adinath-Jagtap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath-Jagtap&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-Jagtap&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adinath-Jagtap&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
