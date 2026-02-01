@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-FF6B35?style=for-the-badge&logo=indian-institute-of-technology&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
