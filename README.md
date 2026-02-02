@@ -136,7 +136,7 @@ Follow along for updates on automation, AI, and full-stack innovations.<br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-Jagtap&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adinath-Jagtap&theme=radical" />
 </div>
 
 <div align="center">
