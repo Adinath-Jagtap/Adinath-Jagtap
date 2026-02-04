@@ -3,6 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Adinath%20Jagtap&fontSize=80&fontAlignY=25&desc=Aspiring%20AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descSize=20&animation=twinkling"/>
 
 </div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+Full+Stack+Systems;Exploring+Automations;Turning+Ideas+Into+Intelligent+Solutions;Open+to+Collaborations+%26+Join+Startups" alt="Typing SVG" />
 </p>
