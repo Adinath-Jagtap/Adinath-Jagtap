@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p> <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me 😃
 
 <img align="right" alt="Coding" width="350" height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
