@@ -136,11 +136,7 @@ Follow along for updates on automation, AI, and full-stack innovations.<br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Analytics
 
 <div align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adinath-Jagtap&theme=radical" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-Jagtap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Adinath-Jagtap&theme=aura&hide_border=true&card_width=550" />
 </div>
 
 <br>
