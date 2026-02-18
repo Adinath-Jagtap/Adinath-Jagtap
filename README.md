@@ -147,7 +147,7 @@ Follow along for updates on automation, AI, and full-stack innovations.<br>
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px" height="20px"> Let's Build Together
 
-I'm actively seeking **startup opportunities**, **technical collaborations**, and **open-source contributions**. If you're building something that pushes boundaries—in AI, automation, or full-stack—let's connect.
+I'm actively seeking **startup opportunities**, **technical collaborations**, and **open-source contributions**. If you're building something that pushes boundaries in AI, automation, or full-stack—let's connect.
 
 Not interested in small talk. Interested in building things that matter.
 
