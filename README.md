@@ -161,11 +161,7 @@ Not interested in small talk. Interested in building things that matter.
 
 <br>
 
-<img src="https://hits.sh/github.com/Adinath-Jagtap.svg?style=for-the-badge&label=Profile%20Views&color=00D9FF" />
-
 </div>
-
-<br>
 
 <div align="center">
 
