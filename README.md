@@ -22,13 +22,15 @@
 
 A dual-degree student who learns by building — LLM tools, automation pipelines, data dashboards, and full-stack apps. I don't wait to understand things in theory; I ship something first and figure out the rest along the way.
 
-<div>
-<img src="https://img.shields.io/badge/🎓%20B.S.%20Data%20Science-IIT%20Madras%20%7C%202024–Present%20%7C%20CGPA%3A%207.2%2F10-1e293b?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🎓%20B.E.%20AI%20%26%20Data%20Science-Terna%20Engineering%20%7C%202024–Present%20%7C%20CGPA%3A%208.02%2F10-1e293b?style=for-the-badge&logoColor=white" />
-</div>
+<p>
+<img src="https://img.shields.io/badge/🎓%20B.S.%20Data%20Science%20%26%20Application-IIT%20Madras%20·%202024–Present%20-f59e0b?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓%20B.E.%20AI%20%26%20Data%20Science-Terna%20Engineering%20·%202024–Present%20-4f46e5?style=for-the-badge&logoColor=white" />
+</p>
 
 🚀 **Co-Founder & COO** @ <a href="https://syntaxsyndicate.co.in/">Syntax Syndicate</a> — 1,200+ members and growing<br>
 📍 **Navi Mumbai**
+
+🥉 **3rd Prize** — DevsUnite Hackathon 2026 &nbsp;|&nbsp; 🥈 **Runner-Up** — Reverse Coding, Avalon Tech Fest
 
 **🔭 Currently Exploring:**
 
@@ -130,31 +132,6 @@ A dual-degree student who learns by building — LLM tools, automation pipelines
 <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" /><br>Vercel
 </td>
 
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-🥉 **3rd Prize**<br>
-DevsUnite Hackathon 2026
-
-</td>
-<td align="center" width="50%">
-
-🥈 **Runner-Up**<br>
-Reverse Coding — Avalon Tech Fest
-
-</td>
 </tr>
 </table>
 
