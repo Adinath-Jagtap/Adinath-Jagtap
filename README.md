@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Terna%20Engineering-00D9FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-FF6B35?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Adinath-Jagtap&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/stars/Adinath-Jagtap?affiliations=OWNER&style=for-the-badge&color=f59e0b&logo=github&label=TOTAL+STARS" />
+  <img src="https://img.shields.io/github/followers/Adinath-Jagtap?style=for-the-badge&color=9B59B6&logo=github&label=FOLLOWERS" />
 </p>
 
 </div>
@@ -22,42 +22,24 @@
 
 A dual-degree student who learns by building — LLM tools, automation pipelines, data dashboards, and full-stack apps. I don't wait to understand things in theory; I ship something first and figure out the rest along the way.
 
-🎓 **Education**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**B.E. — AI & Data Science**<br>
-Terna Engineering College<br>
-📅 2024–Present &nbsp;|&nbsp; CGPA: **8.02 / 10**
-
-</td>
-<td align="center" width="50%">
-
-**B.S. — Data Science & Applications**<br>
-<a href="https://ds.study.iitm.ac.in/student/24F2004698">IIT Madras Online</a><br>
-📅 2024–Present &nbsp;|&nbsp; CGPA: **7.2 / 10**
-
-</td>
-</tr>
-</table>
+<div>
+<img src="https://img.shields.io/badge/🎓%20B.S.%20Data%20Science-IIT%20Madras%20%7C%202024–Present%20%7C%20CGPA%3A%207.2%2F10-1e293b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🎓%20B.E.%20AI%20%26%20Data%20Science-Terna%20Engineering%20%7C%202024–Present%20%7C%20CGPA%3A%208.02%2F10-1e293b?style=for-the-badge&logoColor=white" />
+</div>
 
 🚀 **Co-Founder & COO** @ <a href="https://syntaxsyndicate.co.in/">Syntax Syndicate</a> — 1,200+ members and growing<br>
 📍 **Navi Mumbai**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🔭 What I'm Exploring
+**🔭 Currently Exploring:**
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">🤖<br><strong>AI &amp; LLMs</strong></td>
-<td align="center" width="25%">📊<br><strong>Data Science &amp; Analytics</strong></td>
+<td align="center" width="25%">🤖<br><strong>AI & LLMs</strong></td>
+<td align="center" width="25%">📊<br><strong>Data Science & Analytics</strong></td>
 <td align="center" width="25%">⚙️<br><strong>Automation</strong></td>
-<td align="center" width="25%">🌐<br><strong>Full-Stack Development</strong></td>
+<td align="center" width="25%">🌐<br><strong>Full-Stack Dev</strong></td>
 </tr>
 </table>
 
@@ -147,9 +129,7 @@ Terna Engineering College<br>
 <td align="center" width="14%">
 <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" /><br>Vercel
 </td>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=render" width="55" height="55" alt="Render" /><br>Render
-</td>
+
 </tr>
 </table>
 
@@ -163,23 +143,16 @@ Terna Engineering College<br>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 🥉 **3rd Prize**<br>
 DevsUnite Hackathon 2026
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 🥈 **Runner-Up**<br>
 Reverse Coding — Avalon Tech Fest
-
-</td>
-<td align="center" width="33%">
-
-🏢 **Co-Founder & COO**<br>
-<a href="https://syntaxsyndicate.co.in/">Syntax Syndicate</a><br>
-1,200+ Members
 
 </td>
 </tr>
@@ -192,16 +165,6 @@ Reverse Coding — Avalon Tech Fest
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Analytics
 
 <div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdinath-Jagtap&query=%24.public_repos&label=Public%20Repos&color=00D9FF&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdinath-Jagtap&query=%24.followers&label=Followers&color=9B59B6&style=flat-square&logo=github" />
-</p>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adinath-Jagtap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=9B59B6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath-Jagtap&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff" />
-
-<br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Adinath-Jagtap&theme=aura&hide_border=true&card_width=550" />
 
@@ -221,7 +184,10 @@ Open to collaborations and ideas worth building. A ⭐ or sponsor helps me build
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adinathjagtap9702@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adinathjagtap777)
 [![IIT Madras](https://img.shields.io/badge/IIT_Madras-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ds.study.iitm.ac.in/student/24F2004698)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Adinath-Jagtap)
+
+<br>
+
+[![Sponsor](https://img.shields.io/badge/❤️%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Adinath-Jagtap)
 
 </div>
 
