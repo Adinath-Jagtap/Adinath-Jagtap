@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adinath-Jagtap&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/stars/Adinath-Jagtap?affiliations=OWNER&style=for-the-badge&color=f59e0b&logo=github&label=TOTAL+STARS" />
   <img src="https://img.shields.io/github/followers/Adinath-Jagtap?style=for-the-badge&color=9B59B6&logo=github&label=FOLLOWERS" />
 </p>
