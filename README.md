@@ -163,7 +163,7 @@ Open to collaborations and ideas worth building. A ⭐ or sponsor helps me build
 
 <br>
 
-[![Sponsor](https://img.shields.io/badge/❤️%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Adinath-Jagtap)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Adinath-Jagtap)
 
 </div>
 
